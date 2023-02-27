@@ -1,0 +1,927 @@
+fileFormatVersion: 2
+guid: 794ebcfe713e76742a8f95941232f363
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832.6666
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9c349f2a60b8f45a7cbf60e7dfc667
+      internalID: -1107903084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 832.6666
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02250d1b56a131c46b9bc923075f48d9
+      internalID: 1968407867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 832.6666
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f01920f0998c94287b905f42316823
+      internalID: 696298900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 832.6666
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f82101f8a42baf4baae8ae29f8b7bd7
+      internalID: -1166154741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 832.6666
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6141db644cecb40ad79ba7eb4f8543
+      internalID: -802513124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 832.6666
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c63ecaf650cae48a0cd77c6ff145ad
+      internalID: 1057942882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 832.6666
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c439f21b1cfe54f9824a81af3f8cd6
+      internalID: -765379128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 4536
+        y: 832.6666
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9b897b20a9dae4da3f5bef48b0e0f3
+      internalID: 662967151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 5184
+        y: 832.6666
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c81323b3d96a149a39b40a2d5ed5f2
+      internalID: 431339368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 5832
+        y: 832.6666
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8d2581e97cd564281640a6d72a01df
+      internalID: 592599290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 832.6666
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d259636bff17fc4e82d59499699b888
+      internalID: 1176666453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 7128
+        y: 832.6666
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161d3742d84bf7342ba61c9750b72db0
+      internalID: -651261265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416.66666
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f70cf15609dc2843ab722b5c7a144ec
+      internalID: -535975815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 416.66666
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d107536e3245540b9323bd1382a231
+      internalID: 796288437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 416.66666
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe424490f70b224aa988681c15d2723
+      internalID: 1377839361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 416.66666
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98331af46ccef524780c62970bf17796
+      internalID: -254175392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 416.66666
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae87520e5b506fb41977e10db3a9327b
+      internalID: 840024329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 416.66666
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7909e12b8e725b444967d4322aa4f5d9
+      internalID: 2027446133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 416.66666
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6f864c1163c684a9d3f361f31c1970
+      internalID: -1096154784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 4536
+        y: 416.66666
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e167917ca067940bf2eb2e7013ea65
+      internalID: -1414002987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 5184
+        y: 416.66666
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8501d34f6cf18fb4aa8b3aa4b898b517
+      internalID: 1823981079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 5832
+        y: 416.66666
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed3d98b572d1a545858cf74ee810e02
+      internalID: -895240470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 416.66666
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fba60dae1651dd45a143d570beb5f68
+      internalID: 344312596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 7128
+        y: 416.66666
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce10331fdb69d54c9df83e28aa45915
+      internalID: 478105687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.6666565
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8397dfd28f27a23429236ba2de7dcb9a
+      internalID: 142411367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0.6666565
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aff23a2fc72d904abb5095573af1552
+      internalID: 1307528690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 0.6666565
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775362f1e5ecfa945876fa8a5e8d0b56
+      internalID: -103851487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 0.6666565
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebcf651adffa1842b07d047b67d28e7
+      internalID: -1137814659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 0.6666565
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f58106622fa81408787f78ea4a80f2
+      internalID: -1090421571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 0.6666565
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31977d7b04ab76c47a7bab73742bcfa6
+      internalID: -2045719109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 0.6666565
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1f4cd8b528df745bf626d48a78b3ca
+      internalID: -2090547910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 4536
+        y: 0.6666565
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1706aefb5048f41b4e8199b3233d15
+      internalID: -1447147314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 5184
+        y: 0.6666565
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714b5fa645fce854daca588da738fe7f
+      internalID: -2046984900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 5832
+        y: 0.6666565
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e91cfefaa47744caf7cbed68810e19
+      internalID: 1368265077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 0.6666565
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538b8a2e53ecdd540a91debd33c92aac
+      internalID: -304733778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Run_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 7128
+        y: 0.6666565
+        width: 648.0833
+        height: 416.33334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c464248e9b0c78b46a8ec157fa082fc2
+      internalID: 583200716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ghoul_Run_SpriteSheet_0: -1107903084
+      Ghoul_Run_SpriteSheet_1: 1968407867
+      Ghoul_Run_SpriteSheet_10: 1176666453
+      Ghoul_Run_SpriteSheet_11: -651261265
+      Ghoul_Run_SpriteSheet_12: -535975815
+      Ghoul_Run_SpriteSheet_13: 796288437
+      Ghoul_Run_SpriteSheet_14: 1377839361
+      Ghoul_Run_SpriteSheet_15: -254175392
+      Ghoul_Run_SpriteSheet_16: 840024329
+      Ghoul_Run_SpriteSheet_17: 2027446133
+      Ghoul_Run_SpriteSheet_18: -1096154784
+      Ghoul_Run_SpriteSheet_19: -1414002987
+      Ghoul_Run_SpriteSheet_2: 696298900
+      Ghoul_Run_SpriteSheet_20: 1823981079
+      Ghoul_Run_SpriteSheet_21: -895240470
+      Ghoul_Run_SpriteSheet_22: 344312596
+      Ghoul_Run_SpriteSheet_23: 478105687
+      Ghoul_Run_SpriteSheet_24: 142411367
+      Ghoul_Run_SpriteSheet_25: 1307528690
+      Ghoul_Run_SpriteSheet_26: -103851487
+      Ghoul_Run_SpriteSheet_27: -1137814659
+      Ghoul_Run_SpriteSheet_28: -1090421571
+      Ghoul_Run_SpriteSheet_29: -2045719109
+      Ghoul_Run_SpriteSheet_3: -1166154741
+      Ghoul_Run_SpriteSheet_30: -2090547910
+      Ghoul_Run_SpriteSheet_31: -1447147314
+      Ghoul_Run_SpriteSheet_32: -2046984900
+      Ghoul_Run_SpriteSheet_33: 1368265077
+      Ghoul_Run_SpriteSheet_34: -304733778
+      Ghoul_Run_SpriteSheet_35: 583200716
+      Ghoul_Run_SpriteSheet_4: -802513124
+      Ghoul_Run_SpriteSheet_5: 1057942882
+      Ghoul_Run_SpriteSheet_6: -765379128
+      Ghoul_Run_SpriteSheet_7: 662967151
+      Ghoul_Run_SpriteSheet_8: 431339368
+      Ghoul_Run_SpriteSheet_9: 592599290
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

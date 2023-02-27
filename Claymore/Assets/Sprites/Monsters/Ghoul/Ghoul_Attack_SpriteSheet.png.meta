@@ -1,0 +1,531 @@
+fileFormatVersion: 2
+guid: 38409dc784a4f9c4f9b4f878c0fc5946
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ghoul_Attack_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1187.3333
+        width: 632.6667
+        height: 593.6667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ae0009d36008b448b717e2215c43b8
+      internalID: -203988439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Attack_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1187.3333
+        width: 632.6667
+        height: 593.6667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b5f7b4447f2454b97da50ca5386daa
+      internalID: 1720560862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Attack_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1187.3333
+        width: 632.6667
+        height: 593.6667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6581780e3681749840c49dc0d88117
+      internalID: 1298092541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Attack_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 1187.3333
+        width: 632.6667
+        height: 593.6667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94843939082672642841d5c936054b55
+      internalID: 1776084596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Attack_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 2528
+        y: 1187.3333
+        width: 632.6667
+        height: 593.6667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58a70068a89e5b41a485f226513cd8a
+      internalID: 650536218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Attack_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 3160
+        y: 1187.3333
+        width: 632.6667
+        height: 593.6667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a744dba1de8f743bfc7f94109f569e
+      internalID: 1417224602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Attack_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 594.3333
+        width: 632.6667
+        height: 593.6667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd2454604ff4804f8f74687a9c645c8
+      internalID: 762957741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Attack_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 594.3333
+        width: 632.6667
+        height: 593.6667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22090c6028b22764fb559700e2e708fe
+      internalID: 333178261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Attack_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 594.3333
+        width: 632.6667
+        height: 593.6667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de73b0bc7ceb35342a86f4559cc68121
+      internalID: 1235688077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Attack_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 594.3333
+        width: 632.6667
+        height: 593.6667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa3787e098721943802beb0a5789126
+      internalID: 1545098960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Attack_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 2528
+        y: 594.3333
+        width: 632.6667
+        height: 593.6667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3370f939552c7a342911e19ee5f18c1f
+      internalID: -1538132362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Attack_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 3160
+        y: 594.3333
+        width: 632.6667
+        height: 593.6667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1d7238fade80348843762aeeb4a442
+      internalID: 2101626719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Attack_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.333313
+        width: 632.6667
+        height: 593.6667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d96eeb9ae2c4a94f81cec20c80e1e53
+      internalID: 775973948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Attack_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1.333313
+        width: 632.6667
+        height: 593.6667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531d00e7289c5f5458d274399916f80a
+      internalID: -1117089677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Attack_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1.333313
+        width: 632.6667
+        height: 593.6667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2869967f14b70e64295425416a504052
+      internalID: 1202176911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Attack_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 1.333313
+        width: 632.6667
+        height: 593.6667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175e1f624abb5b5418406c1604a3af10
+      internalID: 1601641908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Attack_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 2528
+        y: 1.333313
+        width: 632.6667
+        height: 593.6667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98740be56ce571f4b9169a43a7473fa2
+      internalID: -828989978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Attack_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 3160
+        y: 1.333313
+        width: 632.6667
+        height: 593.6667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1921d4aab228324cb75285fda3c88b2
+      internalID: 916153497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ghoul_Attack_SpriteSheet_0: -203988439
+      Ghoul_Attack_SpriteSheet_1: 1720560862
+      Ghoul_Attack_SpriteSheet_10: -1538132362
+      Ghoul_Attack_SpriteSheet_11: 2101626719
+      Ghoul_Attack_SpriteSheet_12: 775973948
+      Ghoul_Attack_SpriteSheet_13: -1117089677
+      Ghoul_Attack_SpriteSheet_14: 1202176911
+      Ghoul_Attack_SpriteSheet_15: 1601641908
+      Ghoul_Attack_SpriteSheet_16: -828989978
+      Ghoul_Attack_SpriteSheet_17: 916153497
+      Ghoul_Attack_SpriteSheet_2: 1298092541
+      Ghoul_Attack_SpriteSheet_3: 1776084596
+      Ghoul_Attack_SpriteSheet_4: 650536218
+      Ghoul_Attack_SpriteSheet_5: 1417224602
+      Ghoul_Attack_SpriteSheet_6: 762957741
+      Ghoul_Attack_SpriteSheet_7: 333178261
+      Ghoul_Attack_SpriteSheet_8: 1235688077
+      Ghoul_Attack_SpriteSheet_9: 1545098960
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
