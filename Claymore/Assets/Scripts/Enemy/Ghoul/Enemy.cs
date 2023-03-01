@@ -3,7 +3,7 @@ using UnityEngine;
 public class Enemy : MonoBehaviour
 {
     public Animator animator;
-    private Rigidbody2D rb;
+    public Rigidbody2D rb;
 
     public int maxHealth = 100;
     int currentHealth;
@@ -24,10 +24,6 @@ public class Enemy : MonoBehaviour
         }
     }
 
-    private void FixedUpdate()
-    {
-        
-    }
     void Die() 
     {
         Debug.Log("Enemy died!");
