@@ -1,0 +1,795 @@
+fileFormatVersion: 2
+guid: e55e5e82b1efd91438186a5a1d5349e2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ghoul_Death_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1073.3333
+        width: 819
+        height: 536.6667
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a27589d80dbbed4283eaa220e1fba53
+      internalID: 973605980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Death_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1073.3333
+        width: 819
+        height: 536.6667
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1371b9b8bea4e42916d16dbe4fa96d
+      internalID: -1948205850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Death_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1073.3333
+        width: 819
+        height: 536.6667
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde77810312251941a11766e4cddaf0f
+      internalID: -1463505565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Death_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 1073.3333
+        width: 819
+        height: 536.6667
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87bd458b23bf7c49a291e2c39f0b019
+      internalID: 224286206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Death_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 1073.3333
+        width: 819
+        height: 536.6667
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1340ef3da9a6ed48b3349ee3300c51b
+      internalID: 502014463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Death_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 1073.3333
+        width: 819
+        height: 536.6667
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c4cff1ff4a7ae44bdb6980e1630c82
+      internalID: 485489330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Death_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 1073.3333
+        width: 819
+        height: 536.6667
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036b293a4ed5405498222a77c3afed88
+      internalID: 321577493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Death_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 5733
+        y: 1073.3333
+        width: 819
+        height: 536.6667
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76a069294c57c5459192ccb947d085c
+      internalID: -121115029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Death_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 6552
+        y: 1073.3333
+        width: 819
+        height: 536.6667
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f11299d2ac2fa40b132baff3d684f0
+      internalID: -2122908516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Death_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 7371
+        y: 1073.3333
+        width: 819
+        height: 536.6667
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d49ddbd514c8714dbe308188720f5bb
+      internalID: -1785861591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Death_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 537.3333
+        width: 819
+        height: 536.6667
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477fe8c4a317f67449f04af74852cca0
+      internalID: 142584878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Death_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 537.3333
+        width: 819
+        height: 536.6667
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109ea9bbdf2bf3c4b816e963f646c496
+      internalID: -841638128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Death_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 537.3333
+        width: 819
+        height: 536.6667
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5234dee180f770d4ca41a1caa58ab50e
+      internalID: -1539899137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Death_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 537.3333
+        width: 819
+        height: 536.6667
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbf6b538d7114d44b841d526236e4de
+      internalID: 1724654146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Death_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 537.3333
+        width: 819
+        height: 536.6667
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b8429158140664698854c54d62a5bb
+      internalID: 1458383006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Death_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 537.3333
+        width: 819
+        height: 536.6667
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af46f03f7d031df47b6c0dc7716de706
+      internalID: -1238603511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Death_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 537.3333
+        width: 819
+        height: 536.6667
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad234431f6eca94f89eeab150fd0c54
+      internalID: 1384520258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Death_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 5733
+        y: 537.3333
+        width: 819
+        height: 536.6667
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31875c44157478a4486a7a45b8ee4ec6
+      internalID: -1087819543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Death_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 6552
+        y: 537.3333
+        width: 819
+        height: 536.6667
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8624b097a7d9d24994775f15883b76d
+      internalID: 1071172710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Death_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 7371
+        y: 537.3333
+        width: 819
+        height: 536.6667
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f8845a407c3cd47b9c83659bfdc117
+      internalID: -352740004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Death_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.333313
+        width: 819
+        height: 536.6667
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049ae1b3e04d8744d9e9e62ae386cfb5
+      internalID: 778645457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Death_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1.333313
+        width: 819
+        height: 536.6667
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b089954d8b146547905a818654cb881
+      internalID: 2112626520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Death_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1.333313
+        width: 819
+        height: 536.6667
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9276e017ece7a0479f334f20bfce7d3
+      internalID: 2037570014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Death_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 1.333313
+        width: 819
+        height: 536.6667
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102abd183c3ab5e468245cdba7936045
+      internalID: -981774646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Death_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 1.333313
+        width: 819
+        height: 536.6667
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff9bb439624e6e49a3fc9f66a7e7633
+      internalID: -2054109926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Death_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 1.333313
+        width: 819
+        height: 536.6667
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad209d89d627c3a419f8841970663976
+      internalID: 1797881597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Death_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 1.333313
+        width: 819
+        height: 536.6667
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabb5b02e83fd2a4b9876b4ebb205be1
+      internalID: -1364228676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Death_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 5733
+        y: 1.333313
+        width: 819
+        height: 536.6667
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07778f1c1592ead4d83eec97d67c63c8
+      internalID: -1090854515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Death_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 6552
+        y: 1.333313
+        width: 819
+        height: 536.6667
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361bfb209c03a704084faa54996b4943
+      internalID: 167286375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_Death_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 7371
+        y: 1.333313
+        width: 819
+        height: 536.6667
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ba3dd975b77894cb45d574d08787e5
+      internalID: -865782665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ghoul_Death_SpriteSheet_0: 973605980
+      Ghoul_Death_SpriteSheet_1: -1948205850
+      Ghoul_Death_SpriteSheet_10: 142584878
+      Ghoul_Death_SpriteSheet_11: -841638128
+      Ghoul_Death_SpriteSheet_12: -1539899137
+      Ghoul_Death_SpriteSheet_13: 1724654146
+      Ghoul_Death_SpriteSheet_14: 1458383006
+      Ghoul_Death_SpriteSheet_15: -1238603511
+      Ghoul_Death_SpriteSheet_16: 1384520258
+      Ghoul_Death_SpriteSheet_17: -1087819543
+      Ghoul_Death_SpriteSheet_18: 1071172710
+      Ghoul_Death_SpriteSheet_19: -352740004
+      Ghoul_Death_SpriteSheet_2: -1463505565
+      Ghoul_Death_SpriteSheet_20: 778645457
+      Ghoul_Death_SpriteSheet_21: 2112626520
+      Ghoul_Death_SpriteSheet_22: 2037570014
+      Ghoul_Death_SpriteSheet_23: -981774646
+      Ghoul_Death_SpriteSheet_24: -2054109926
+      Ghoul_Death_SpriteSheet_25: 1797881597
+      Ghoul_Death_SpriteSheet_26: -1364228676
+      Ghoul_Death_SpriteSheet_27: -1090854515
+      Ghoul_Death_SpriteSheet_28: 167286375
+      Ghoul_Death_SpriteSheet_29: -865782665
+      Ghoul_Death_SpriteSheet_3: 224286206
+      Ghoul_Death_SpriteSheet_4: 502014463
+      Ghoul_Death_SpriteSheet_5: 485489330
+      Ghoul_Death_SpriteSheet_6: 321577493
+      Ghoul_Death_SpriteSheet_7: -121115029
+      Ghoul_Death_SpriteSheet_8: -2122908516
+      Ghoul_Death_SpriteSheet_9: -1785861591
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

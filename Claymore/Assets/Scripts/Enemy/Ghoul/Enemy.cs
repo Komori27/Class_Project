@@ -6,7 +6,7 @@ public class Enemy : MonoBehaviour
     public Rigidbody2D rb;
 
     public int maxHealth = 100;
-    int currentHealth;
+    public int currentHealth;
     void Start()
     {
         currentHealth = maxHealth;
