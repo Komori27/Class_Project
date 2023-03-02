@@ -4,7 +4,13 @@ public class LookAt : MonoBehaviour
 {
     public Transform player;
 
+
     public bool isFlipped = false;
+
+    private void Awake()
+    {
+        player = GameObject.FindGameObjectWithTag("Player").transform;
+    }
 
     public void LookAtPlayer()
     {

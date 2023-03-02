@@ -12,6 +12,8 @@ public class PlayerJump : MonoBehaviour
 
     private bool isGrounded;            // Whether or not the player is on the ground
 
+
+
     void Update()
     {
         // Check if the player is on the ground
@@ -20,15 +22,18 @@ public class PlayerJump : MonoBehaviour
         // If the player is on the ground and the jump button is pressed, jump
         if (isGrounded && Input.GetKeyDown(KeyCode.Space))
         {
-            GetComponent<Rigidbody2D>().velocity = new Vector2(GetComponent<Rigidbody2D>().velocity.x, jumpForce);
             animator.SetTrigger("Jump");
+            isGrounded = false;
+            animator.SetBool("OnLand", false);
+            GetComponent<Rigidbody2D>().velocity = new Vector2(GetComponent<Rigidbody2D>().velocity.x, jumpForce);
         }
 
-        // If the player is on the ground, end the jump animation
-        if (isGrounded) // && animator.GetCurrentAnimatorStateInfo(0).IsName("Jump")
+        if (isGrounded)
         {
-            animator.SetTrigger("Landed");
+            isGrounded = true;
+            animator.SetBool("OnLand", true);
         }
+        
     }
 
     private void OnDrawGizmosSelected()

@@ -5,17 +5,17 @@ class PlatformerPlayer : MonoBehaviour
     [SerializeField, HideInInspector] Rigidbody2D rb;
     [SerializeField] float speed = 5;
     //[SerializeField] float jumpSpeed = 5;
-    [SerializeField] int airJumpCount = 1;
+    //[SerializeField] int airJumpCount = 1;
     float horizontalMove = 0f;
     public Animator animator;
 
-    [SerializeField] Vector2 foot = Vector2.down;
-    [SerializeField] float footRadius = 0.15f;
+   // [SerializeField] Vector2 foot = Vector2.down;
+   // [SerializeField] float footRadius = 0.15f;
     private SpriteRenderer spriteRenderer;
     public Transform childObject;
 
-    bool grounded = false;
-    int currentAirJumpBudget = 0;
+    //bool grounded = false;
+    //int currentAirJumpBudget = 0;
 
     //bool jumpInput = false;
 
@@ -33,17 +33,7 @@ class PlatformerPlayer : MonoBehaviour
     {
         horizontalMove = Input.GetAxisRaw("Horizontal") * speed;
         animator.SetFloat("Speed", Mathf.Abs(horizontalMove));
-        /*
-        if (grounded || currentAirJumpBudget > 0)
-        {
-            bool jump = Input.GetKeyDown(KeyCode.Space);
-
-            if (jump)
-            {
-                this.jumpInput = true;
-            }
-        }
-        */
+        
         // Get the horizontal input axis (left/right arrow keys or A/D keys)
         float horizontalInput = Input.GetAxisRaw("Horizontal");
 
@@ -81,64 +71,7 @@ class PlatformerPlayer : MonoBehaviour
         Vector2 velocity = rb.velocity;
 
         velocity.x = horizontal;
-        /*
-        if (grounded || currentAirJumpBudget > 0)
-        {
-            if (jumpInput)
-            {
-                velocity.y = jumpSpeed;
 
-                if (!grounded)
-                    currentAirJumpBudget--;
-                jumpInput = false;
-            }
-        }
-        */
         rb.velocity = velocity;
     }
-    /*
-    void OnCollisionEnter2D(Collision2D collision)
-    {
-        // Vector2 vel = collision.contacts[0].relativeVelocity;
-        // if (vel.y > 0) return;
-
-        Vector3 globalFooPoint = transform.TransformPoint(foot);
-        bool isAnyPontInFootArea = false;
-        foreach (var contact in collision.contacts)
-        {
-            float distance = Vector3.Distance(contact.point, globalFooPoint);
-            bool isInFootArea = distance <= footRadius;
-            if (isInFootArea)
-            {
-                isAnyPontInFootArea = true;
-                break;
-            }
-        }
-
-        if (!isAnyPontInFootArea)
-            return;
-
-        grounded = true;
-        animator.SetTrigger("Landed");
-        currentAirJumpBudget = airJumpCount;
-    }
-
-    void OnCollisionExit2D(Collision2D collision)
-    {
-        grounded = false;
-        animator.SetTrigger("Jump");
-    }
-
-    public void RefillAirJump()
-    {
-        currentAirJumpBudget = airJumpCount;
-    }
-
-    void OnDrawGizmosSelected()
-    {
-        Gizmos.color = Color.blue;
-        Vector3 globalP = transform.TransformPoint(foot);
-        Gizmos.DrawWireSphere(globalP, footRadius);
-    }
-    */
 }

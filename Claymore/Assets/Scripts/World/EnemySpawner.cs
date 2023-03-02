@@ -13,8 +13,8 @@ public class EnemySpawner : MonoBehaviour
     {
         if (!hasSpawnedEnemy && other.gameObject.CompareTag("Player"))
         {
-            Vector3 randomOffset = Random.insideUnitSphere * spawnRadius;
-            Vector3 finalSpawnPosition = spawnPosition + randomOffset;
+            //Vector3 randomOffset = Random.insideUnitSphere * spawnRadius;
+            Vector3 finalSpawnPosition = spawnPosition;     // + randomOffset
             Instantiate(enemyPrefab, finalSpawnPosition, Quaternion.identity);
             hasSpawnedEnemy = true;
             Debug.Log("EnemySpawned");

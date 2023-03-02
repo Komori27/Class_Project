@@ -482,6 +482,7 @@ GameObject:
   - component: {fileID: 2278253898064148359}
   - component: {fileID: 2278253898064148356}
   - component: {fileID: 2278253898064148355}
+  - component: {fileID: -4709272160905703396}
   m_Layer: 8
   m_Name: Player
   m_TagString: Player
@@ -691,10 +692,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rb: {fileID: 2278253898064148479}
   speed: 7
-  airJumpCount: 1
   animator: {fileID: 2278253898064148465}
-  foot: {x: 0, y: 0}
-  footRadius: 0.16
   childObject: {fileID: 2278253896234454890}
 --- !u!114 &2278253898064148355
 MonoBehaviour:
@@ -715,3 +713,15 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 2147483647
   animator: {fileID: 2278253898064148465}
+--- !u!114 &-4709272160905703396
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2779155152476655898}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68812c74eaa195e48b000cafefc4f382, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
