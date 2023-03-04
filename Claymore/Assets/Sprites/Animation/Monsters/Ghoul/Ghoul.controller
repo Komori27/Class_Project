@@ -88,7 +88,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: db85b847fa00fab4f8a6ab7fa2848544, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
+  speed: 7
   player: {fileID: 0}
   rb: {fileID: 0}
   attackRange: 5
