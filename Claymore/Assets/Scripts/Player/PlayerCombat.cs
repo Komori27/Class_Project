@@ -10,8 +10,18 @@ public class PlayerCombat : MonoBehaviour
     public float attackRate = 2f;
     float nextAttackTime = 0f;
 
+    private int comboCount = 0;
+    private float lastAttackTime;
+    private float attackTimeFrame = 1f;
+
+    private void Start()
+    {
+        InvokeRepeating("ResetComboAttack", attackTimeFrame, attackTimeFrame);
+    }
+
     void Update()
     {
+        /*
         if(Time.time >= nextAttackTime) 
         {
             if(Input.GetKeyDown(KeyCode.F)) 
@@ -20,7 +30,33 @@ public class PlayerCombat : MonoBehaviour
                 nextAttackTime= Time.time + 1f / attackRate;
              }
         }
+        */
+
+        if (Input.GetKeyDown(KeyCode.F) && Time.time - lastAttackTime > attackTimeFrame)
+        {
+            // play first attack animation
+            animator.SetTrigger("Attack");
+            comboCount = 1;
+            lastAttackTime = Time.time;
+        }
+        else if (Input.GetKeyDown(KeyCode.F) && comboCount == 1 && Time.time - lastAttackTime <= attackTimeFrame)
+        {
+            // play second attack animation
+            animator.SetTrigger("Attack2");
+            comboCount = 2;
+            lastAttackTime = Time.time;
+        }
+
+
     }
+
+    private void ResetComboAttack()
+    {
+        comboCount = 0;
+        lastAttackTime = 0f;
+    }
+
+
     void Attack()
     {
         animator.SetTrigger("Attack");

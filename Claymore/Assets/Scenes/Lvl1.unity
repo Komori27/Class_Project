@@ -3115,6 +3115,10 @@ PrefabInstance:
       propertyPath: maxHealth
       value: 100
       objectReference: {fileID: 0}
+    - target: {fileID: 2278253898064148472, guid: 63821c2186fd7f84a99fdc100ad47468, type: 3}
+      propertyPath: attackDelay
+      value: 0.72
+      objectReference: {fileID: 0}
     - target: {fileID: 2278253898064148474, guid: 63821c2186fd7f84a99fdc100ad47468, type: 3}
       propertyPath: m_Radius
       value: 1.25
