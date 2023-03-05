@@ -26,7 +26,7 @@ public class PlayerJump : MonoBehaviour
 
         isGrounded = collider != null;
 
-        Debug.Log(collider == null ? "null" : collider.name);
+        //Debug.Log(collider == null ? "null" : collider.name);
 
         if (isGrounded != isGroundedLastFrame) 
         {
@@ -37,7 +37,7 @@ public class PlayerJump : MonoBehaviour
         {
             player.velocity = new Vector2(player.velocity.x, jumpForce);
             animator.SetTrigger("Jump");
-            Debug.Log("Jump");
+            //Debug.Log("Jump");
             animator.SetBool("StartJump", true);
             Invoke(nameof(JumpStartEnd), jumpDelay);
         }
