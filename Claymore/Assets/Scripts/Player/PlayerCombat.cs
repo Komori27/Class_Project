@@ -21,17 +21,6 @@ public class PlayerCombat : MonoBehaviour
 
     void Update()
     {
-        /*
-        if(Time.time >= nextAttackTime) 
-        {
-            if(Input.GetKeyDown(KeyCode.F)) 
-             {
-                Attack();
-                nextAttackTime= Time.time + 1f / attackRate;
-             }
-        }
-        */
-
         if (Input.GetKeyDown(KeyCode.F) && Time.time - lastAttackTime > attackTimeFrame)
         {
             // play first attack animation
@@ -46,8 +35,6 @@ public class PlayerCombat : MonoBehaviour
             comboCount = 2;
             lastAttackTime = Time.time;
         }
-
-
     }
 
     private void ResetComboAttack()
@@ -64,9 +51,9 @@ public class PlayerCombat : MonoBehaviour
         void AttackEnemy()
         {
             Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
-            foreach (Collider2D enemy in hitEnemies)
+            foreach (Collider2D collider in hitEnemies)
             {
-                enemy.GetComponent<Enemy>().TakeDamage(attackDamage);
+                collider.GetComponent<Enemy>().TakeDamage(attackDamage);
             }
         }
 

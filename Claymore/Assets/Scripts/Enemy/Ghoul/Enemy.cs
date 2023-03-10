@@ -5,6 +5,8 @@ public class Enemy : MonoBehaviour
     public Animator animator;
     public Rigidbody2D rb;
 
+
+    [SerializeField] bool destroyObject = false;
     public int maxHealth = 100;
     public int currentHealth;
     void Start()
@@ -27,7 +29,6 @@ public class Enemy : MonoBehaviour
     void Die() 
     {
         Debug.Log("Enemy died!");
-
         animator.SetBool("IsDead", true);
         rb = GetComponent<Rigidbody2D>();
         rb.constraints = RigidbodyConstraints2D.FreezePositionY | RigidbodyConstraints2D.FreezePositionX;
@@ -35,6 +36,10 @@ public class Enemy : MonoBehaviour
         foreach (Collider2D collider in colliders)
         {
             collider.enabled = false; // Disable each collider
+        }
+        if (destroyObject)
+        {
+            Destroy(gameObject);
         }
         this.enabled = false;
     }

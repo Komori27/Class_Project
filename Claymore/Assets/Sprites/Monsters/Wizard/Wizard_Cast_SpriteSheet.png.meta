@@ -1,0 +1,1015 @@
+fileFormatVersion: 2
+guid: 98d3fa0cfe2e4d54fac8d706f7a6f7d7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1404
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa26547bd7f27c84a8006c3dc558a02a
+      internalID: -683672640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1404
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105b61a74ea87af4caaec3fcdb5b935c
+      internalID: 477216280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1404
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554c32c84b3fc14438cab5a5577f0d0e
+      internalID: -1777141809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1404
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4de7753ab777de47ac7f19f7f7bb076
+      internalID: -2029200595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1404
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8777e57059cf324c8fa655e59cfa32e
+      internalID: 265905839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1404
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847e7a3856b1ba646b31eb9904904bb0
+      internalID: 1958846739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 1404
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d744f4b36ce2994dbbf08238beccf86
+      internalID: -1031774257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 1404
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33326a0817d85b542acb3d72b0ad6d3f
+      internalID: -341378025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 1404
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9ad6e1afea4e642b3ad9f20bed0878
+      internalID: 1830073488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 1404
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf19dcac5a77544ca5e1135f3ed4650
+      internalID: -891087163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 936
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40e2d9a9a1ff234c9ac7dd09123dfe5
+      internalID: -2077133387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 936
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9343d2b809ec27468b44b59dd1d99b3
+      internalID: -378034343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 936
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9651993cfdd373d45aeaa1d896546ebd
+      internalID: -741839342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 936
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889c55965e5cbc64ab0c7ee784255870
+      internalID: 948759487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 936
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f802a2714a2ca9440a6d00d2054c77ad
+      internalID: -864314993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 936
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4a92a5594c8f74db2793fb107249da
+      internalID: 543619674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 936
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677fef316e98f854eb2c3e68ece6a9bf
+      internalID: -273122304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 936
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3075ab1140b1e429e7376c0b311b86
+      internalID: 1662710415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 936
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a75aa3fd4074246a5652c1c823efae
+      internalID: -1619290720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 936
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a432790e5045e46b23ab542f17a122
+      internalID: -1248431016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b5d4cf7a7a7f64f8226ad01c270dcb
+      internalID: 37056986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 468
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a6d8298588d7346b4cdba0ea423fd8
+      internalID: 1514196064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 468
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb349b82a28fb3469a8c00a65acf25c
+      internalID: -151976651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 468
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e4db46af3d6274f8b018cf2ba6b612
+      internalID: 1061708775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 468
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932a0e94aa236c14abdf1564ce8cdc29
+      internalID: -2080914935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 468
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab0895de8a4d5b4e867684b810092ed
+      internalID: 2073130245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 468
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b1a6faf3ba8a347acc6eed0c47db94
+      internalID: -873886635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 468
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13580cc2f970ad840a1054925546eeda
+      internalID: 397173447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 468
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf178fa1794f8b344a66630f917fdd80
+      internalID: -1302122266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 468
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7734acfbf902f4fa0ab1b7f64924f4
+      internalID: -1397033186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef570d8d622a02d4abb32306a16b9dc4
+      internalID: -672581336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75efc3955a4a24442bdbb0391b84b4c8
+      internalID: -324982075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 0
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383affe8548130149b68998effe7500e
+      internalID: 1095828504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 0
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94010bf0921ec8f41a8a7f6cb9ef6cc4
+      internalID: -1005471118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 0
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2babc3bf5c0a851408c5e1ef8d8559a7
+      internalID: 1407154943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 0
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0f3f3c9d057b34a9892df6f9eaec94
+      internalID: 753746409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 0
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ce6b90039e2ef4a8cad212b48e3c3c
+      internalID: 308679199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 0
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb24e352376a303439aa930dfb90eac8
+      internalID: -2088774945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 0
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a47917af5d8c044bd39c799ae871b3
+      internalID: -1803566664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Cast_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 0
+        width: 396
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8400995856e674cacfd43b335ea6f1
+      internalID: -1095936240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Wizard_Cast_SpriteSheet_0: -683672640
+      Wizard_Cast_SpriteSheet_1: 477216280
+      Wizard_Cast_SpriteSheet_10: -2077133387
+      Wizard_Cast_SpriteSheet_11: -378034343
+      Wizard_Cast_SpriteSheet_12: -741839342
+      Wizard_Cast_SpriteSheet_13: 948759487
+      Wizard_Cast_SpriteSheet_14: -864314993
+      Wizard_Cast_SpriteSheet_15: 543619674
+      Wizard_Cast_SpriteSheet_16: -273122304
+      Wizard_Cast_SpriteSheet_17: 1662710415
+      Wizard_Cast_SpriteSheet_18: -1619290720
+      Wizard_Cast_SpriteSheet_19: -1248431016
+      Wizard_Cast_SpriteSheet_2: -1777141809
+      Wizard_Cast_SpriteSheet_20: 37056986
+      Wizard_Cast_SpriteSheet_21: 1514196064
+      Wizard_Cast_SpriteSheet_22: -151976651
+      Wizard_Cast_SpriteSheet_23: 1061708775
+      Wizard_Cast_SpriteSheet_24: -2080914935
+      Wizard_Cast_SpriteSheet_25: 2073130245
+      Wizard_Cast_SpriteSheet_26: -873886635
+      Wizard_Cast_SpriteSheet_27: 397173447
+      Wizard_Cast_SpriteSheet_28: -1302122266
+      Wizard_Cast_SpriteSheet_29: -1397033186
+      Wizard_Cast_SpriteSheet_3: -2029200595
+      Wizard_Cast_SpriteSheet_30: -672581336
+      Wizard_Cast_SpriteSheet_31: -324982075
+      Wizard_Cast_SpriteSheet_32: 1095828504
+      Wizard_Cast_SpriteSheet_33: -1005471118
+      Wizard_Cast_SpriteSheet_34: 1407154943
+      Wizard_Cast_SpriteSheet_35: 753746409
+      Wizard_Cast_SpriteSheet_36: 308679199
+      Wizard_Cast_SpriteSheet_37: -2088774945
+      Wizard_Cast_SpriteSheet_38: -1803566664
+      Wizard_Cast_SpriteSheet_39: -1095936240
+      Wizard_Cast_SpriteSheet_4: 265905839
+      Wizard_Cast_SpriteSheet_5: 1958846739
+      Wizard_Cast_SpriteSheet_6: -1031774257
+      Wizard_Cast_SpriteSheet_7: -341378025
+      Wizard_Cast_SpriteSheet_8: 1830073488
+      Wizard_Cast_SpriteSheet_9: -891087163
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
