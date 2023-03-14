@@ -191,7 +191,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animator: {fileID: 8719330065875813979}
   rb: {fileID: 4932806596148494199}
-  maxHealth: 100
+  destroyObject: 0
+  maxHealth: 150
   currentHealth: 0
 --- !u!114 &7129108002376381548
 MonoBehaviour:

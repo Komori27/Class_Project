@@ -4,15 +4,16 @@ using UnityEngine;
 
 public class Knockback : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public Vector2 forceDirection = Vector2.left;
+    public float forceMagnitude = 100f;
+    public void MyMethodHandler()
     {
-        
-    }
+        Debug.Log("Knockback");
+        Vector2 forceDirection = -transform.right; forceDirection.y = 0;
+        forceDirection.Normalize();
+        Rigidbody2D rb = GetComponent<Rigidbody2D>();
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+        Vector2 force = forceDirection.normalized * forceMagnitude;
+        rb.AddForce(force, ForceMode2D.Impulse);
     }
 }

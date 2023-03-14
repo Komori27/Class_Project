@@ -111,7 +111,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 7
+  m_Constraints: 5
 --- !u!61 &8221288583922448825
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   projectilePrefab: {fileID: 1386169114473604254, guid: 5b5c5170b3ef2c0479b08eaf708af15c, type: 3}
   projectileSpeed: 10
-  projectileInterval: 3.5
+  projectileInterval: 2
   damage: 10
   projectileLifespan: 5
   enemy: {fileID: 8221288583922448775}

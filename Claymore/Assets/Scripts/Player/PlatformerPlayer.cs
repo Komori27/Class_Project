@@ -4,6 +4,9 @@ class PlatformerPlayer : MonoBehaviour
 {
     [SerializeField, HideInInspector] Rigidbody2D rb;
     [SerializeField] float speed = 5;
+    public Vector3 forceDirection = Vector3.back;
+    public float forceMagnitude = 100f;
+
 
     float horizontalMove = 0f;
     public Animator animator;
@@ -47,7 +50,6 @@ class PlatformerPlayer : MonoBehaviour
             }
         }
     }
-
 
     void FixedUpdate()
     {

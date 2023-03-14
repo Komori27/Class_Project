@@ -1,0 +1,575 @@
+fileFormatVersion: 2
+guid: 8817731fbe958fe4e8e58b9ebb86c0a0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wizard_Fireball_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132.5
+        width: 131.4
+        height: 132.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafe4ccf77497fb42a7745a3e365b491
+      internalID: -357520596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Fireball_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 132.5
+        width: 131.4
+        height: 132.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcca924e8acf8214eba03028832f753a
+      internalID: 1165453167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Fireball_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 132.5
+        width: 131.4
+        height: 132.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6234f538f9661b45bebcf1f46d4f4fa
+      internalID: 761672774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Fireball_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 132.5
+        width: 131.4
+        height: 132.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d303ebe3fc47e4f9a2dd880ad02853
+      internalID: 909503894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Fireball_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 132.5
+        width: 131.4
+        height: 132.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71118401fc866c74bbf777500c6cbd97
+      internalID: -952058461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Fireball_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 132.5
+        width: 131.4
+        height: 132.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ab6fb5500fd9d42a8480736ac8bf59
+      internalID: 1618633249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Fireball_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 132.5
+        width: 131.4
+        height: 132.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2080d3e14fbedb04fb0cb6169a4495ae
+      internalID: -142063684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Fireball_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 132.5
+        width: 131.4
+        height: 132.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b1690ab9212294f8339d8f087890fe
+      internalID: 2093790969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Fireball_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 132.5
+        width: 131.4
+        height: 132.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6351e677e31c9174a854a33397490dce
+      internalID: 155426299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Fireball_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 132.5
+        width: 131.4
+        height: 132.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78bae6f5f6877440874cef7af6e4f50
+      internalID: -598227621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Fireball_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.5
+        width: 131.4
+        height: 132.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcca857842204354f8ac7a9f45780a36
+      internalID: -164078726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Fireball_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0.5
+        width: 131.4
+        height: 132.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceec625d684c5544a93cd35e198e76c2
+      internalID: -424367335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Fireball_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0.5
+        width: 131.4
+        height: 132.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7a41aba08b0d64f9264328c241dee4
+      internalID: 2006447303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Fireball_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 0.5
+        width: 131.4
+        height: 132.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cfd130a24c03342aaacee161121c25
+      internalID: -140839058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Fireball_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 0.5
+        width: 131.4
+        height: 132.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb257f78187c61a4eb10d748db63775f
+      internalID: 441608508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Fireball_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 0.5
+        width: 131.4
+        height: 132.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e1e1b0e6e4dd343887bc15de42407c
+      internalID: -546526406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Fireball_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 0.5
+        width: 131.4
+        height: 132.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb9eec15ef25344096cb879210f02ac
+      internalID: -895667822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Fireball_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 0.5
+        width: 131.4
+        height: 132.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f63d69c409b364fac8113033fa9ebe
+      internalID: 620502581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Fireball_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 0.5
+        width: 131.4
+        height: 132.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023a3139aa014ff429091d3f134bf780
+      internalID: 1083869153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Fireball_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 0.5
+        width: 131.4
+        height: 132.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36363dac70da18c4ea2de91ffd9eee5d
+      internalID: -2022143607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Wizard_Fireball_SpriteSheet_0: -357520596
+      Wizard_Fireball_SpriteSheet_1: 1165453167
+      Wizard_Fireball_SpriteSheet_10: -164078726
+      Wizard_Fireball_SpriteSheet_11: -424367335
+      Wizard_Fireball_SpriteSheet_12: 2006447303
+      Wizard_Fireball_SpriteSheet_13: -140839058
+      Wizard_Fireball_SpriteSheet_14: 441608508
+      Wizard_Fireball_SpriteSheet_15: -546526406
+      Wizard_Fireball_SpriteSheet_16: -895667822
+      Wizard_Fireball_SpriteSheet_17: 620502581
+      Wizard_Fireball_SpriteSheet_18: 1083869153
+      Wizard_Fireball_SpriteSheet_19: -2022143607
+      Wizard_Fireball_SpriteSheet_2: 761672774
+      Wizard_Fireball_SpriteSheet_3: 909503894
+      Wizard_Fireball_SpriteSheet_4: -952058461
+      Wizard_Fireball_SpriteSheet_5: 1618633249
+      Wizard_Fireball_SpriteSheet_6: -142063684
+      Wizard_Fireball_SpriteSheet_7: 2093790969
+      Wizard_Fireball_SpriteSheet_8: 155426299
+      Wizard_Fireball_SpriteSheet_9: -598227621
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
