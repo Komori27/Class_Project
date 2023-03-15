@@ -63,6 +63,7 @@ public class EnemyProjectile : MonoBehaviour
         {
             // If the player collides with the enemy, damage the player
             other.GetComponent<PlayerHealth>().TakeDamage(damage);
+            Destroy(gameObject);
         }
     }
 
