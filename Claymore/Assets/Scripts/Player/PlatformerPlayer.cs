@@ -14,7 +14,7 @@ class PlatformerPlayer : MonoBehaviour
     private SpriteRenderer spriteRenderer;
     public Transform childObject;
 
-    void OnValidate()
+    void Start()
     {
         // Get the sprite renderer component
         spriteRenderer = GetComponent<SpriteRenderer>();

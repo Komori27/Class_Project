@@ -1,0 +1,575 @@
+fileFormatVersion: 2
+guid: 97fac0ace3160a44aba06135aa7a124f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Main_Menu_Background_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3401
+        width: 3835
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6142aed88315e54b9e5b617c3e2224a
+      internalID: 633059013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Menu_Background_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3222
+        width: 3835
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add180eff4361264c9d97ef771cbef26
+      internalID: 1189117174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Menu_Background_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3043
+        width: 3835
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150e035e41bbb4c48b04213f108ef683
+      internalID: -1593868312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Menu_Background_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2864
+        width: 3835
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d6599975c97d84aa96f6a329b89a69
+      internalID: 1201600350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Menu_Background_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2685
+        width: 3835
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d3473d3a949ff4ca4f696ab294ad2c
+      internalID: 947241750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Menu_Background_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2506
+        width: 3835
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d6fb557b0d24945a0c863250bd851d
+      internalID: 944952110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Menu_Background_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2327
+        width: 3835
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1084b0d736277de46b9057a5b61bdb0f
+      internalID: 1300696139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Menu_Background_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2148
+        width: 3835
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d73451123255174faffba8bd2c8a130
+      internalID: -530343546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Menu_Background_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1969
+        width: 3835
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428a2cfcf43ccd04cbc3d3cb1d7ab4d2
+      internalID: -1964718122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Menu_Background_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1790
+        width: 3835
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddcd0ed6cf749d4988f0b878399d09e
+      internalID: -643385342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Menu_Background_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1611
+        width: 3835
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b1074d3a7ad9f439e6908583e64028
+      internalID: 854085984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Menu_Background_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1432
+        width: 3835
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4060cc8de78584ba625fa94f53e1fc
+      internalID: -221050506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Menu_Background_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1253
+        width: 3835
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f58132381700340884f91a438bb0b6
+      internalID: -1221100338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Menu_Background_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1074
+        width: 3835
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7130e538efe68e24cb047a61f81ad69f
+      internalID: 345011590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Menu_Background_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 895
+        width: 3835
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620c7cf7fabca6a46bb14c6f3f7d9232
+      internalID: 1749165900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Menu_Background_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 716
+        width: 3835
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86690e6f7c00fb4498fb8334a8f68d4
+      internalID: 1151808870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Menu_Background_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 537
+        width: 3835
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ed056bea3072a4ca5fa3037a7baa14
+      internalID: 628154257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Menu_Background_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358
+        width: 3835
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd375f477754f84fa2764dcf4f2de0b
+      internalID: -2139708340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Menu_Background_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 3835
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1e369c74272524ea04f6b9b311d1a9
+      internalID: -214992099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Menu_Background_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 3835
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85409863e870a7449327e74bb236514
+      internalID: 923571486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Main_Menu_Background_SpriteSheet_0: 633059013
+      Main_Menu_Background_SpriteSheet_1: 1189117174
+      Main_Menu_Background_SpriteSheet_10: 854085984
+      Main_Menu_Background_SpriteSheet_11: -221050506
+      Main_Menu_Background_SpriteSheet_12: -1221100338
+      Main_Menu_Background_SpriteSheet_13: 345011590
+      Main_Menu_Background_SpriteSheet_14: 1749165900
+      Main_Menu_Background_SpriteSheet_15: 1151808870
+      Main_Menu_Background_SpriteSheet_16: 628154257
+      Main_Menu_Background_SpriteSheet_17: -2139708340
+      Main_Menu_Background_SpriteSheet_18: -214992099
+      Main_Menu_Background_SpriteSheet_19: 923571486
+      Main_Menu_Background_SpriteSheet_2: -1593868312
+      Main_Menu_Background_SpriteSheet_3: 1201600350
+      Main_Menu_Background_SpriteSheet_4: 947241750
+      Main_Menu_Background_SpriteSheet_5: 944952110
+      Main_Menu_Background_SpriteSheet_6: 1300696139
+      Main_Menu_Background_SpriteSheet_7: -530343546
+      Main_Menu_Background_SpriteSheet_8: -1964718122
+      Main_Menu_Background_SpriteSheet_9: -643385342
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

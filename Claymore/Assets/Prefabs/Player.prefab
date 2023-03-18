@@ -25,7 +25,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 399549946}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.2851868, y: 2.3374023, z: -35.242474}
+  m_LocalPosition: {x: 3.0782776, y: 2.2055092, z: -43.243027}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -179,8 +179,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 647603193}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.000011444092, y: 0.0000019073486, z: -0.0000076293945}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -295,8 +295,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1462143539}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.8451843, y: 16.662598, z: 179.14247}
-  m_LocalScale: {x: 7.97, y: 7.97, z: 7.97}
+  m_LocalPosition: {x: -0.8451843, y: 77, z: 969}
+  m_LocalScale: {x: 31.763405, y: 31.763405, z: 31.763405}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 462995584}
@@ -446,7 +446,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ad980451443d70438faac0bc6c235a0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_TrackedObjectOffset: {x: 1.2851942, y: 2.3374026, z: -0.94577307}
+  m_TrackedObjectOffset: {x: 3.0782754, y: 2.2055047, z: -1.3621553}
   m_LookaheadTime: 0.3
   m_LookaheadSmoothing: 10
   m_LookaheadIgnoreY: 1
@@ -456,9 +456,9 @@ MonoBehaviour:
   m_TargetMovementOnly: 1
   m_ScreenX: 0.5
   m_ScreenY: 0.5
-  m_CameraDistance: 34.2967
+  m_CameraDistance: 41.880863
   m_DeadZoneWidth: 0.15
-  m_DeadZoneHeight: 0.07
+  m_DeadZoneHeight: 0.04
   m_DeadZoneDepth: 0
   m_UnlimitedSoftZone: 0
   m_SoftZoneWidth: 0.8
@@ -500,8 +500,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2278253895956004950}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.001, y: -2.22, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.0009880066, y: -2.219998, z: -0.0000076293945}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -531,8 +531,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2278253896234454891}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.000011444092, y: 0.0000019073486, z: -0.0000076293945}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -564,7 +564,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2278253897342227306}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3.5900002, y: -0.71, z: 0}
+  m_LocalPosition: {x: 3.5900002, y: -0.71000004, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -599,7 +599,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2278253897459645627}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.2851868, y: 2.3374023, z: -35.242474}
+  m_LocalPosition: {x: 3.0782776, y: 2.2055092, z: -43.243027}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -616,7 +616,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 4
   m_FOVAxisMode: 0
@@ -1001,7 +1001,7 @@ MonoBehaviour:
   objectTurnOffOnDeath: {fileID: 2278253898064148356}
   objectTurnOffOnDeath2: {fileID: 2278253898064148472}
   objectTurnOffOnDeath3: {fileID: 2278253898064148355}
-  rb: {fileID: 0}
+  rb: {fileID: 2278253898064148479}
   healthBar: {fileID: 0}
 --- !u!114 &2278253898064148356
 MonoBehaviour:
