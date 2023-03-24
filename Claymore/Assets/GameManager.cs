@@ -29,7 +29,7 @@ public class GameManager : MonoBehaviour
     public void LoadMenu()
     {
         Time.timeScale = 1f;
-        SceneManager.LoadScene("Main Menu");
+        AsyncOperation operation = SceneManager.LoadSceneAsync("Main Menu");
     }
     public void QuitGame()
     {
