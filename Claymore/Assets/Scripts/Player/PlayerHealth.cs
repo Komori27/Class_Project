@@ -70,7 +70,7 @@ public class PlayerHealth : MonoBehaviour
         hudImage.rectTransform.sizeDelta = new Vector2(size, size);
     }
     */
-    void Die()
+    public void Die()
     {
         Debug.Log("Player died!");
         gameManager.GameOver();

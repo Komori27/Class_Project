@@ -2,17 +2,20 @@ using UnityEngine;
 
 class PlatformerPlayer : MonoBehaviour
 {
-    [SerializeField, HideInInspector] Rigidbody2D rb;
+    [SerializeField] Rigidbody2D rb;
     [SerializeField] float speed = 5;
-    public Vector3 forceDirection = Vector3.back;
-    public float forceMagnitude = 100f;
+    [SerializeField] float forceMagnitude = 100f;
+
+    [SerializeField] Stamina stamina;
+    [SerializeField] PlayerStaminaHUD staminaBar;
 
 
-    float horizontalMove = 0f;
+    [SerializeField] Dodge dodge;
     public Animator animator;
+    public Transform childObject;
 
     private SpriteRenderer spriteRenderer;
-    public Transform childObject;
+    private float horizontalMove = 0f;
 
     void Start()
     {
@@ -26,14 +29,36 @@ class PlatformerPlayer : MonoBehaviour
 
     void Update()
     {
+        staminaBar.SetStamina(stamina.currentStamina);
+        {
+            if (Input.GetKeyDown(KeyCode.G) && !dodge.IsDodging)
+            {
+                stamina.UseStamina(50);
+                //staminaBar.SetStamina(stamina.currentStamina);
+                float horizontalD = Input.GetAxis("Horizontal");
+                animator.SetTrigger("IsDodging");
+                if (horizontalD < 0)
+                {
+                    dodge.DodgeDirection(-1);
+                }
+                else if (horizontalD > 0)
+                {
+                    dodge.DodgeDirection(1);
+                }
+                else
+                {
+                    dodge.DodgeDirection(0);
+                }
+            }
+        }
+
+
+
+
         horizontalMove = Input.GetAxisRaw("Horizontal") * speed;
         animator.SetFloat("Speed", Mathf.Abs(horizontalMove));
-        
-        float horizontalInput = Input.GetAxisRaw("Horizontal");
 
-        transform.Translate(new Vector3(horizontalInput * speed * Time.deltaTime, 0f, 0f));
-
-        if (horizontalInput < 0)
+        if (horizontalMove < 0)
         {
             spriteRenderer.flipX = true;
             if (childObject != null)
@@ -41,7 +66,7 @@ class PlatformerPlayer : MonoBehaviour
                 childObject.localScale = new Vector3(-1, 1, 1);
             }
         }
-        else if (horizontalInput > 0)
+        else if (horizontalMove > 0)
         {
             spriteRenderer.flipX = false;
             if (childObject != null)
@@ -53,12 +78,19 @@ class PlatformerPlayer : MonoBehaviour
 
     void FixedUpdate()
     {
+        rb.AddForce(new Vector2(horizontalMove * forceMagnitude, 0));
         float horizontal = Input.GetAxis("Horizontal");
         horizontal *= speed;
-
         Vector2 velocity = rb.velocity;
 
-        velocity.x = horizontal;
+        if (horizontal == 0)
+        {
+            velocity.x = 0;
+        }
+        else
+        {
+            velocity.x = horizontal;
+        }
 
         rb.velocity = velocity;
     }

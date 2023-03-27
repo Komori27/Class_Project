@@ -173,7 +173,7 @@ MonoBehaviour:
   animator: {fileID: 8221288583922448774}
   rb: {fileID: 8221288583922448824}
   destroyObject: 0
-  maxHealth: 30
+  maxHealth: 10
   currentHealth: 0
 --- !u!114 &8221288583922448773
 MonoBehaviour:

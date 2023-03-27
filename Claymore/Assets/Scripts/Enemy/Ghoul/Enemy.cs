@@ -41,6 +41,10 @@ public class Enemy : MonoBehaviour
         {
             Destroy(gameObject);
         }
+        else             //---------------------------------
+        {
+            Destroy(gameObject, 10);
+        }               //---------------------------------
         this.enabled = false;
     }
 }

@@ -1,0 +1,1455 @@
+fileFormatVersion: 2
+guid: fc61f77db976c8646b959970f4bcf729
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1046.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265bafbd127060748957392c572df0f7
+      internalID: -1358429266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1046.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1119694fd3e50344b33357d93a21a15
+      internalID: 1610972913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1046.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186919d10b1a46043908d9deda507941
+      internalID: -1439099985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1046.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3da9269c34408340983b2c786dfb014
+      internalID: 2011673311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1046.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f33968b62e8de428ef9bcb593bca99
+      internalID: 235324543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1046.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf17fc22d292d446a7e5d1d74e75dae
+      internalID: 553836099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1046.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf19fa6567efb42469571125d718bfb8
+      internalID: -1797290566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1046.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f53916799421e4fa953cebb2a89045
+      internalID: 1391853047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1046.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bb8249a85eb74469415c2d04efab93
+      internalID: -2100427718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 1046.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a4f2631bf7ac94f95df9a63aede294
+      internalID: 767680575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 1046.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9242ffc1ff1960844939e82df124e461
+      internalID: 1221100641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 1046.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5187042607f14734d8d98b0e83dd0c9c
+      internalID: 478317528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 1046.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4940de35f62fe9847b594ef9ba8e0024
+      internalID: -48911277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 1046.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12250a44a3af686429e1dc4fe14c637f
+      internalID: -671638405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 1046.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4c067e3fed5594ab1da683f78d75f9
+      internalID: 133302661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 1046.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c771158117274b42b974e9903beb86d
+      internalID: 140899254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 1046.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06293c99b39c94040b4e63d84e9faed3
+      internalID: 393708295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 1046.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e012a8da2c15e4f8b4c254ce848d11
+      internalID: 1761349945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 1046.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff63270f08ec4241abe0c1c7aa5a013
+      internalID: -1717386624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 4332
+        y: 1046.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103055bc50bd9b446886d55835894fcc
+      internalID: 1423699909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 523.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a6860ec649cc741b599145fe239e66
+      internalID: 1642786570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 523.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f16e9fb88892d4e84cf166b0c10dad
+      internalID: 1129488318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 523.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0eb303049109ed4182b21e4ae5259e9
+      internalID: -332038279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 523.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa6f47cfb2fc0e488eaa85adf22837e
+      internalID: 164792556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 523.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613a062b96c34ad47b8c8d34e9946535
+      internalID: 1115480978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 523.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a03ef80afacfa438e9a68a9438b756
+      internalID: 1780775937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 523.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85e91b25ca63b844ae052c78593bb1e
+      internalID: -725390944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 523.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44754c8f22ec43439626afd3394076d
+      internalID: 803491655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 523.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320739888d9cfcf4c8589b190c81a183
+      internalID: 1283572947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 523.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446e4238ce1b8754faac3af4565b93e4
+      internalID: 1398386638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 523.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c75aaacdc620014aa7e6da1ccee39ea
+      internalID: -446240826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 523.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bda363535aa2d41a5a1bb6b40e4c50
+      internalID: -674026612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 523.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a80ab8b2bc8a284089253083773a749
+      internalID: 275091150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 523.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c125ab091e820e4f9a51d64d4a0820d
+      internalID: -53583050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 523.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71264aa7b4451db4e8e31f24a50edd3a
+      internalID: -1826838708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 523.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae218ce85f894e49a704a4b2c4624aa
+      internalID: 1015197009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 523.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7553137b412316d489ebbf0d2f2d92cc
+      internalID: 382854301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 523.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e31a39d48b10a4ea48d6a90b8a1cb2
+      internalID: 540714697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 523.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12df780c2785f5c4ea5ccc634ff0eab1
+      internalID: -939065939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 4332
+        y: 523.6667
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274276651e836ea479bec36b9b0ab78f
+      internalID: -1655040159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.666687
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ae588bac71a82498427e3dfa2578b1
+      internalID: -1402035308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0.666687
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553622e418ac4ad4b8fc3d6590860f66
+      internalID: -1608601770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0.666687
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a164c3fc8cfed4d8e1c3eb69bdc80c
+      internalID: 495585927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0.666687
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68aaa0dd1cc5d9540b5694a6f3ec5210
+      internalID: -242124824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0.666687
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e0edcb3f21cd44b8b478f8a6e3e693
+      internalID: 1391437272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 0.666687
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229dd85d4fa0faf4eabea404e2685bfc
+      internalID: 87923286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 0.666687
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e4e7a35d16c804b93359928f1556ba
+      internalID: -518695235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 0.666687
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb77406edc49f04da3f163cc11aaf54
+      internalID: -227429423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 0.666687
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f716821b86992347824a0e7447f2a65
+      internalID: 1250307487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 0.666687
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6661c27735a67384e9e0f72a7df6b5f8
+      internalID: 1157375180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 0.666687
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb486e4e15f2c54fbdb572e31563bdc
+      internalID: -835673099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 0.666687
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcda528a300ca94698e9000bd679ab3
+      internalID: -593046190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 0.666687
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9967865cc2c9548a8190188b1d1b8a
+      internalID: -1864784288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 0.666687
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038a5248ac124154d81a0d00fcd97a29
+      internalID: -485264196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 0.666687
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed877a86814ae5f43a94064ac90ebc2e
+      internalID: -157095875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 0.666687
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824deebb411747949a0a065f95b8152a
+      internalID: -1248632616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 0.666687
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2eaab8a6feeade49b01084f73d9b37a
+      internalID: 1137859954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 0.666687
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803ceab07ce65524498fad50f1a560d8
+      internalID: -623577836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 0.666687
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035ba72fd42f6414ba9c78fc6f27d43c
+      internalID: -302682756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Point_SpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 4332
+        y: 0.666687
+        width: 228.9
+        height: 523.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83af3033fa2e5e049880f252b274afa5
+      internalID: -1230886351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Save_Point_SpriteSheet_0: -1358429266
+      Save_Point_SpriteSheet_1: 1610972913
+      Save_Point_SpriteSheet_10: 1221100641
+      Save_Point_SpriteSheet_11: 478317528
+      Save_Point_SpriteSheet_12: -48911277
+      Save_Point_SpriteSheet_13: -671638405
+      Save_Point_SpriteSheet_14: 133302661
+      Save_Point_SpriteSheet_15: 140899254
+      Save_Point_SpriteSheet_16: 393708295
+      Save_Point_SpriteSheet_17: 1761349945
+      Save_Point_SpriteSheet_18: -1717386624
+      Save_Point_SpriteSheet_19: 1423699909
+      Save_Point_SpriteSheet_2: -1439099985
+      Save_Point_SpriteSheet_20: 1642786570
+      Save_Point_SpriteSheet_21: 1129488318
+      Save_Point_SpriteSheet_22: -332038279
+      Save_Point_SpriteSheet_23: 164792556
+      Save_Point_SpriteSheet_24: 1115480978
+      Save_Point_SpriteSheet_25: 1780775937
+      Save_Point_SpriteSheet_26: -725390944
+      Save_Point_SpriteSheet_27: 803491655
+      Save_Point_SpriteSheet_28: 1283572947
+      Save_Point_SpriteSheet_29: 1398386638
+      Save_Point_SpriteSheet_3: 2011673311
+      Save_Point_SpriteSheet_30: -446240826
+      Save_Point_SpriteSheet_31: -674026612
+      Save_Point_SpriteSheet_32: 275091150
+      Save_Point_SpriteSheet_33: -53583050
+      Save_Point_SpriteSheet_34: -1826838708
+      Save_Point_SpriteSheet_35: 1015197009
+      Save_Point_SpriteSheet_36: 382854301
+      Save_Point_SpriteSheet_37: 540714697
+      Save_Point_SpriteSheet_38: -939065939
+      Save_Point_SpriteSheet_39: -1655040159
+      Save_Point_SpriteSheet_4: 235324543
+      Save_Point_SpriteSheet_40: -1402035308
+      Save_Point_SpriteSheet_41: -1608601770
+      Save_Point_SpriteSheet_42: 495585927
+      Save_Point_SpriteSheet_43: -242124824
+      Save_Point_SpriteSheet_44: 1391437272
+      Save_Point_SpriteSheet_45: 87923286
+      Save_Point_SpriteSheet_46: -518695235
+      Save_Point_SpriteSheet_47: -227429423
+      Save_Point_SpriteSheet_48: 1250307487
+      Save_Point_SpriteSheet_49: 1157375180
+      Save_Point_SpriteSheet_5: 553836099
+      Save_Point_SpriteSheet_50: -835673099
+      Save_Point_SpriteSheet_51: -593046190
+      Save_Point_SpriteSheet_52: -1864784288
+      Save_Point_SpriteSheet_53: -485264196
+      Save_Point_SpriteSheet_54: -157095875
+      Save_Point_SpriteSheet_55: -1248632616
+      Save_Point_SpriteSheet_56: 1137859954
+      Save_Point_SpriteSheet_57: -623577836
+      Save_Point_SpriteSheet_58: -302682756
+      Save_Point_SpriteSheet_59: -1230886351
+      Save_Point_SpriteSheet_6: -1797290566
+      Save_Point_SpriteSheet_7: 1391853047
+      Save_Point_SpriteSheet_8: -2100427718
+      Save_Point_SpriteSheet_9: 767680575
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

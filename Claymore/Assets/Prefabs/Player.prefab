@@ -25,7 +25,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 399549946}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3.0782776, y: 2.2055092, z: -43.243027}
+  m_LocalPosition: {x: 3.0782928, y: 2.2055063, z: -43.243027}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -457,8 +457,8 @@ MonoBehaviour:
   m_ScreenX: 0.5
   m_ScreenY: 0.5
   m_CameraDistance: 41.880863
-  m_DeadZoneWidth: 0.15
-  m_DeadZoneHeight: 0.04
+  m_DeadZoneWidth: 0.1
+  m_DeadZoneHeight: 0.02
   m_DeadZoneDepth: 0
   m_UnlimitedSoftZone: 0
   m_SoftZoneWidth: 0.8
@@ -599,7 +599,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2278253897459645627}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3.0782776, y: 2.2055092, z: -43.243027}
+  m_LocalPosition: {x: 3.0782928, y: 2.2055063, z: -43.243027}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -771,6 +771,8 @@ GameObject:
   - component: {fileID: 2278253898064148356}
   - component: {fileID: 2278253898064148355}
   - component: {fileID: 1456126300}
+  - component: {fileID: 6866279372104841839}
+  - component: {fileID: 6195367582456423684}
   m_Layer: 8
   m_Name: Player
   m_TagString: Player
@@ -1016,9 +1018,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 2278253898064148479}
-  speed: 7
-  forceDirection: {x: 0, y: 0, z: -1}
-  forceMagnitude: 10
+  speed: 14
+  forceMagnitude: 0
+  stamina: {fileID: 6195367582456423684}
+  staminaBar: {fileID: 0}
+  dodge: {fileID: 6866279372104841839}
   animator: {fileID: 2278253898064148465}
   childObject: {fileID: 2278253896234454890}
 --- !u!114 &2278253898064148355
@@ -1053,3 +1057,38 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68812c74eaa195e48b000cafefc4f382, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &6866279372104841839
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2779155152476655898}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 063705d480aadee4ca368356f07331fa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dodgeDistance: 5
+  dodgeTime: 0
+  dodgeWidth: 0.5
+  spriteRenderer: {fileID: 2278253898064148478}
+  isDodging: 0
+--- !u!114 &6195367582456423684
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2779155152476655898}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f18e5bbabdd8bc44ac44350661ec9e4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxStamina: 120
+  currentStamina: 120
+  staminaRecoveryRate: 20
+  health: {fileID: 2278253898064148359}
+  staminaBar: {fileID: 0}
+  healthBar: {fileID: 0}
