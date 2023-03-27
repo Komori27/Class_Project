@@ -25,7 +25,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 399549946}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3.0782928, y: 2.2055063, z: -43.243027}
+  m_LocalPosition: {x: 3.078247, y: 2.2055054, z: -43.243027}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -599,7 +599,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2278253897459645627}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3.0782928, y: 2.2055063, z: -43.243027}
+  m_LocalPosition: {x: 3.078247, y: 2.2055054, z: -43.243027}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -869,7 +869,7 @@ Rigidbody2D:
   m_AngularDrag: 0.05
   m_GravityScale: 4
   m_Material: {fileID: 6200000, guid: 4355fc487e044b14e8529fd8106eebeb, type: 2}
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_SleepingMode: 0
   m_CollisionDetection: 1
   m_Constraints: 4
@@ -1020,6 +1020,7 @@ MonoBehaviour:
   rb: {fileID: 2278253898064148479}
   speed: 14
   forceMagnitude: 0
+  currentPosition: {x: 0, y: 0, z: 0}
   stamina: {fileID: 6195367582456423684}
   staminaBar: {fileID: 0}
   dodge: {fileID: 6866279372104841839}

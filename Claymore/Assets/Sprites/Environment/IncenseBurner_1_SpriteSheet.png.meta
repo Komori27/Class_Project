@@ -1,0 +1,1895 @@
+fileFormatVersion: 2
+guid: 06c4ce6c03af4744db76d3d26b177ef2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1089
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae7e8441af7ee9418cccab1c58192d3
+      internalID: 2067436376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1089
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5934f6354ce6ab84a945b448f67f1ede
+      internalID: -174352480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1089
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2a38c06c9cc0d43b540a7f377293b2
+      internalID: 1186484891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1089
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8652f1f8afee46d4fb3d5e034b76d7da
+      internalID: 1684084741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1089
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d96de1be2642f94fb585d08d5bb144e
+      internalID: -1886010155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1089
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7829d52e8c74df646b9477d7c3c809b8
+      internalID: -609018127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 1089
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c534c47d3810b459cb8c4832cfb932
+      internalID: -964038718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 1089
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbcad173ab1d4745b7d73cedf6439f7
+      internalID: -353274070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 1089
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2160765dfcc73c43997d32eedd45687
+      internalID: -322085829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 1089
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aeb6cd47ec7b474e92c87a0458db5fd
+      internalID: -1159129779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 1089
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb709a2484aed2438ad1f1d151c53e9
+      internalID: -2034729492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 3971
+        y: 1089
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d30fa85c6e2374992ec30114618b37
+      internalID: 762730669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 4332
+        y: 1089
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f79314769f867c448abd3564aec0b97
+      internalID: -1065366994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 4693
+        y: 1089
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e5ea9d938d9134893939dcac7a3c6c
+      internalID: 161093014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 5054
+        y: 1089
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e11f53d3928284e9265978a3c1eaf8
+      internalID: 343505201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 5415
+        y: 1089
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1fcc9225cc0e3429500bc41b066603
+      internalID: -1979668860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 5776
+        y: 1089
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f37d330eb865c643beb6eb12a355376
+      internalID: 116127582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 6137
+        y: 1089
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab79a7c509c9fa41a411f0795702d43
+      internalID: 84707394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 6498
+        y: 1089
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1984eb8c711b5408a80e068d9ef0a1
+      internalID: -743950580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 6859
+        y: 1089
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89f995d9691ee245947cfa29b80e479
+      internalID: 523810802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 726
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bb0fa730ed94041a6584eaeef75487
+      internalID: 1690398247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 726
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1ffe631dd31fe41b18fdde75d7d6a4
+      internalID: -1570079465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 726
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a680a10cf968f7347bcb060c7ecb18f8
+      internalID: 1585550321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 726
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c09dbc40c7c1034997d3866936eb6d1
+      internalID: -54370150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 726
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd94abf14d41a543ba3dd74a56f35d0
+      internalID: 857479159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 726
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c87c1a509b82c04ea59d66c923e86d7
+      internalID: 861865726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 726
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90309e3efa40fc346be148543ce6399d
+      internalID: -1646741993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 726
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883724428f07fc54685b1388a134bb3f
+      internalID: -1871884732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 726
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2da704c9817224f8479d2a70dfe737
+      internalID: -897987984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 726
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b3b36add4e4f34190c9abb8d6bfe85
+      internalID: -1631009160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 726
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f7a590c541fc34fa9ed04e86e34d7d
+      internalID: -1368222149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 3971
+        y: 726
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0df56e10a89034d8e3698719e23a64
+      internalID: 1403978387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 4332
+        y: 726
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b8274e028b014499bca966e1aaab64
+      internalID: -1663876767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 4693
+        y: 726
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a97e3f3639e5340bd7c087d007c1ab
+      internalID: -903856043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 5054
+        y: 726
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ace8de653a96f4b90b13f04da470cb
+      internalID: -1692688711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 5415
+        y: 726
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715721c1c5298974cba12a229d56cc94
+      internalID: 463856402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 5776
+        y: 726
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03fba29a04c50449a5063c14cdc3b70
+      internalID: -1578716017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 6137
+        y: 726
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d6df82336681c4ea0faf924d51c00f
+      internalID: -515316294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 6498
+        y: 726
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b5fac5c8cda0247ade8f503671284b
+      internalID: 871331737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 6859
+        y: 726
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30eddd2cf8f45b6498d518f029861a7b
+      internalID: 1806658207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 363
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a28f993032bdf24c81eeb32fc42abaf
+      internalID: -109941434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 363
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36eef68831bc3d044a997e4ccfa1e33c
+      internalID: -32765092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 363
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2ab0f95dee96a43921e0a9366c6b3a
+      internalID: -565892330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 363
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a938e5d99fd7ab04389fd71141cf79a8
+      internalID: -1075747032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 363
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb16d92ba3e9c54f944c3aec7de6f0a
+      internalID: -1710875795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 363
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afaf3d943fac57d459c034ba76d7c964
+      internalID: 1499945503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 363
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a7c7db3c8929a41b842dfc70fa6e53
+      internalID: 1393281540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 363
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716597e4407f7eb46856c2f76ccc0ad4
+      internalID: 183199719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 363
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6aa02be6ae0d846aa2d3bda678fb97
+      internalID: -479538664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 363
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b7c17c001fd344685b6026b11dee8e
+      internalID: -352128312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 363
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78cffb76f1cde342b40dd91673a06e1
+      internalID: -633481951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 3971
+        y: 363
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee33fdfde85a6044b7fb9e48bb2fb20
+      internalID: -1189080164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 4332
+        y: 363
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af4993c202169440a7f33282e6b4772
+      internalID: 814525946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 4693
+        y: 363
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5fbe7616825ff479a1433f2751d1f6
+      internalID: 1965153411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 5054
+        y: 363
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff249416bc761e4488129cbb76372d3d
+      internalID: 1536791543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 5415
+        y: 363
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5496e6998599a1a4e8ada18f730eccfb
+      internalID: -668350280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 5776
+        y: 363
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214027e1e127b9745adfe38427d431d7
+      internalID: 2052852799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 6137
+        y: 363
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520645267f39e0b4da5cbf33abf2d27a
+      internalID: 1704336813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 6498
+        y: 363
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21696836df21503458eac004cdbcce3c
+      internalID: 1571805322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 6859
+        y: 363
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0113d5bd7021746af009e87de1da32
+      internalID: 1394182953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7045a1cc458c7044976b99e3bbd49e7
+      internalID: -2081638003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 0
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18cd72bd66c857438e3e79d7a91000c
+      internalID: -729122606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 0
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d363051008c212545ba9f790932e4fef
+      internalID: -1203524727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 0
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f5654736a5c7240ba1d07fa3143193
+      internalID: 439267332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 0
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d4e58c0517fc14aa6c0ef3093f6ab9
+      internalID: 1103584407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 0
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8089c91b5753d984db0998fded027c89
+      internalID: 262483626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 0
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b50826448f9e740b69157fe659fbe6
+      internalID: 1884348840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 0
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4eff7024dc46249b53bde050c787bd
+      internalID: 813824229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 0
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e6fea9d7e8d744f957e85864ba371b
+      internalID: 1967535619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 0
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3987ec5301d2d1b4392100cc870a59ce
+      internalID: -13516048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 0
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c49b4e086f4d8a4ebd3121d7c04b3f8
+      internalID: -1703475182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 3971
+        y: 0
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba35d91fe6279d459b66b59de4b3684
+      internalID: -319216994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 4332
+        y: 0
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f3b58047284c240b26a5e2a4c56908
+      internalID: 1609447068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 4693
+        y: 0
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eda9486fb10ffc4a9fd81fdda97a49d
+      internalID: 439872408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 5054
+        y: 0
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea587ff17f0450749aa23ae7c110afb6
+      internalID: 1384395432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 5415
+        y: 0
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8344dfdb3f85ad4785960d8b05c0264
+      internalID: -1165153167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 5776
+        y: 0
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a80a71a27a1ec4d802448ba25a9a4c
+      internalID: -2147019790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 6137
+        y: 0
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb90bbd8b28b98c4cb413f4f5643cb83
+      internalID: -1323793711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 6498
+        y: 0
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14acaa9cea9765e4581c6ffd786d573b
+      internalID: 1267243677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncenseBurner_1_SpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 6859
+        y: 0
+        width: 361
+        height: 363
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1347d1db48e666498ea184a75c8804f
+      internalID: -1684616470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      IncenseBurner_1_SpriteSheet_0: 2067436376
+      IncenseBurner_1_SpriteSheet_1: -174352480
+      IncenseBurner_1_SpriteSheet_10: -2034729492
+      IncenseBurner_1_SpriteSheet_11: 762730669
+      IncenseBurner_1_SpriteSheet_12: -1065366994
+      IncenseBurner_1_SpriteSheet_13: 161093014
+      IncenseBurner_1_SpriteSheet_14: 343505201
+      IncenseBurner_1_SpriteSheet_15: -1979668860
+      IncenseBurner_1_SpriteSheet_16: 116127582
+      IncenseBurner_1_SpriteSheet_17: 84707394
+      IncenseBurner_1_SpriteSheet_18: -743950580
+      IncenseBurner_1_SpriteSheet_19: 523810802
+      IncenseBurner_1_SpriteSheet_2: 1186484891
+      IncenseBurner_1_SpriteSheet_20: 1690398247
+      IncenseBurner_1_SpriteSheet_21: -1570079465
+      IncenseBurner_1_SpriteSheet_22: 1585550321
+      IncenseBurner_1_SpriteSheet_23: -54370150
+      IncenseBurner_1_SpriteSheet_24: 857479159
+      IncenseBurner_1_SpriteSheet_25: 861865726
+      IncenseBurner_1_SpriteSheet_26: -1646741993
+      IncenseBurner_1_SpriteSheet_27: -1871884732
+      IncenseBurner_1_SpriteSheet_28: -897987984
+      IncenseBurner_1_SpriteSheet_29: -1631009160
+      IncenseBurner_1_SpriteSheet_3: 1684084741
+      IncenseBurner_1_SpriteSheet_30: -1368222149
+      IncenseBurner_1_SpriteSheet_31: 1403978387
+      IncenseBurner_1_SpriteSheet_32: -1663876767
+      IncenseBurner_1_SpriteSheet_33: -903856043
+      IncenseBurner_1_SpriteSheet_34: -1692688711
+      IncenseBurner_1_SpriteSheet_35: 463856402
+      IncenseBurner_1_SpriteSheet_36: -1578716017
+      IncenseBurner_1_SpriteSheet_37: -515316294
+      IncenseBurner_1_SpriteSheet_38: 871331737
+      IncenseBurner_1_SpriteSheet_39: 1806658207
+      IncenseBurner_1_SpriteSheet_4: -1886010155
+      IncenseBurner_1_SpriteSheet_40: -109941434
+      IncenseBurner_1_SpriteSheet_41: -32765092
+      IncenseBurner_1_SpriteSheet_42: -565892330
+      IncenseBurner_1_SpriteSheet_43: -1075747032
+      IncenseBurner_1_SpriteSheet_44: -1710875795
+      IncenseBurner_1_SpriteSheet_45: 1499945503
+      IncenseBurner_1_SpriteSheet_46: 1393281540
+      IncenseBurner_1_SpriteSheet_47: 183199719
+      IncenseBurner_1_SpriteSheet_48: -479538664
+      IncenseBurner_1_SpriteSheet_49: -352128312
+      IncenseBurner_1_SpriteSheet_5: -609018127
+      IncenseBurner_1_SpriteSheet_50: -633481951
+      IncenseBurner_1_SpriteSheet_51: -1189080164
+      IncenseBurner_1_SpriteSheet_52: 814525946
+      IncenseBurner_1_SpriteSheet_53: 1965153411
+      IncenseBurner_1_SpriteSheet_54: 1536791543
+      IncenseBurner_1_SpriteSheet_55: -668350280
+      IncenseBurner_1_SpriteSheet_56: 2052852799
+      IncenseBurner_1_SpriteSheet_57: 1704336813
+      IncenseBurner_1_SpriteSheet_58: 1571805322
+      IncenseBurner_1_SpriteSheet_59: 1394182953
+      IncenseBurner_1_SpriteSheet_6: -964038718
+      IncenseBurner_1_SpriteSheet_60: -2081638003
+      IncenseBurner_1_SpriteSheet_61: -729122606
+      IncenseBurner_1_SpriteSheet_62: -1203524727
+      IncenseBurner_1_SpriteSheet_63: 439267332
+      IncenseBurner_1_SpriteSheet_64: 1103584407
+      IncenseBurner_1_SpriteSheet_65: 262483626
+      IncenseBurner_1_SpriteSheet_66: 1884348840
+      IncenseBurner_1_SpriteSheet_67: 813824229
+      IncenseBurner_1_SpriteSheet_68: 1967535619
+      IncenseBurner_1_SpriteSheet_69: -13516048
+      IncenseBurner_1_SpriteSheet_7: -353274070
+      IncenseBurner_1_SpriteSheet_70: -1703475182
+      IncenseBurner_1_SpriteSheet_71: -319216994
+      IncenseBurner_1_SpriteSheet_72: 1609447068
+      IncenseBurner_1_SpriteSheet_73: 439872408
+      IncenseBurner_1_SpriteSheet_74: 1384395432
+      IncenseBurner_1_SpriteSheet_75: -1165153167
+      IncenseBurner_1_SpriteSheet_76: -2147019790
+      IncenseBurner_1_SpriteSheet_77: -1323793711
+      IncenseBurner_1_SpriteSheet_78: 1267243677
+      IncenseBurner_1_SpriteSheet_79: -1684616470
+      IncenseBurner_1_SpriteSheet_8: -322085829
+      IncenseBurner_1_SpriteSheet_9: -1159129779
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

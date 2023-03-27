@@ -1,10 +1,13 @@
 using UnityEngine;
 
-class PlatformerPlayer : MonoBehaviour
+public class PlatformerPlayer : MonoBehaviour
 {
     [SerializeField] Rigidbody2D rb;
     [SerializeField] float speed = 5;
     [SerializeField] float forceMagnitude = 100f;
+
+    public Vector3 currentPosition;
+    private PlayerData playerData;
 
     [SerializeField] Stamina stamina;
     [SerializeField] PlayerStaminaHUD staminaBar;
@@ -19,7 +22,11 @@ class PlatformerPlayer : MonoBehaviour
 
     void Start()
     {
-        // Get the sprite renderer component
+        currentPosition = transform.position;
+        float[] positionArray = new float[] { currentPosition.x, currentPosition.y};
+        playerData = new PlayerData(this);
+
+
         spriteRenderer = GetComponent<SpriteRenderer>();
         if (rb == null)
         {
@@ -78,6 +85,7 @@ class PlatformerPlayer : MonoBehaviour
 
     void FixedUpdate()
     {
+        /*
         rb.AddForce(new Vector2(horizontalMove * forceMagnitude, 0));
         float horizontal = Input.GetAxis("Horizontal");
         horizontal *= speed;
@@ -93,5 +101,16 @@ class PlatformerPlayer : MonoBehaviour
         }
 
         rb.velocity = velocity;
+        */
+
+            float horizontal = Input.GetAxis("Horizontal");
+            horizontal *= speed;
+
+            Vector2 velocity = rb.velocity;
+            velocity.x = horizontal;
+
+            rb.velocity = velocity;
+        
+
     }
 }

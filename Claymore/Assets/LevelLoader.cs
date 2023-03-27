@@ -12,10 +12,15 @@ public class LevelLoader : MonoBehaviour
     private bool changeLevel = false;
     public GameObject loadingScreen;
     public Slider slider;
+    GameManager gameManager;
+
+
 
     void Start()
     {
         levelChangeCollider = GetComponent<Collider2D>();
+        GameManager gameManager = FindObjectOfType<GameManager>();
+        gameManager.SetCurrentLevelIndex(SceneManager.GetActiveScene().buildIndex);
     }
 
     private void Update()
@@ -36,6 +41,8 @@ public class LevelLoader : MonoBehaviour
     public void LoadNextLevel()
     {
         StartCoroutine(LoadAsynchronously(SceneManager.GetActiveScene().buildIndex + 1));
+        int newLevelIndex = SceneManager.GetActiveScene().buildIndex + 1;
+        gameManager.SetCurrentLevelIndex(newLevelIndex);
     }
 
     public void LoadMainMenu()
