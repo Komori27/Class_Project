@@ -20,18 +20,6 @@ public class GhoulCombat : MonoBehaviour
 
     private void Update()
     {
-        /*
-        void Attack()
-        {
-            if (canAttack && Vector3.Distance(transform.position, player.transform.position) <= attackRange)
-            {
-                canAttack = false;
-                animator.SetTrigger("Attack");
-                playerHealth.TakeDamage(attackDamage);
-                Invoke("ResetAttack", attackCooldown);
-            }
-        }
-        */
 
             if (canAttack && Vector3.Distance(transform.position, player.transform.position) <= attackRange)
             {

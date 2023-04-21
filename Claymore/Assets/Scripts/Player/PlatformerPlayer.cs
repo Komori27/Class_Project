@@ -85,23 +85,6 @@ public class PlatformerPlayer : MonoBehaviour
 
     void FixedUpdate()
     {
-        /*
-        rb.AddForce(new Vector2(horizontalMove * forceMagnitude, 0));
-        float horizontal = Input.GetAxis("Horizontal");
-        horizontal *= speed;
-        Vector2 velocity = rb.velocity;
-
-        if (horizontal == 0)
-        {
-            velocity.x = 0;
-        }
-        else
-        {
-            velocity.x = horizontal;
-        }
-
-        rb.velocity = velocity;
-        */
 
             float horizontal = Input.GetAxis("Horizontal");
             horizontal *= speed;
@@ -111,6 +94,5 @@ public class PlatformerPlayer : MonoBehaviour
 
             rb.velocity = velocity;
         
-
     }
 }

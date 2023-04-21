@@ -1,0 +1,1103 @@
+fileFormatVersion: 2
+guid: 69f471952187ce940b7964067cf531e8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1455.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18306ab02177b874fa0eacf4b6031e11
+      internalID: -1665254425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1455.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39172101509c114aaae7e350649a355
+      internalID: 492385641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1455.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59aa942fe06877498672702bf357ce9
+      internalID: 2088301370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 1455.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02f992905e08cc4ea0b90e7b2e24acf
+      internalID: 2010798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 1455.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b06e4bd0fcc2644a601a661a81e14e
+      internalID: -1506793693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 1455.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a652ceb2bbc47ae468c9186e6ae59ef9
+      internalID: 980784897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 1455.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b475a8f85262e0c46befbe4ddd9b35e1
+      internalID: -1933923815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 3563
+        y: 1455.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3eb74beae6720479c31f839e5fbc04
+      internalID: 518832986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 1455.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605a16ec7d4a9da47b0d4cb40588f327
+      internalID: 374933018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 4581
+        y: 1455.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fb9d2f939f7d34db4427a4adc1d004
+      internalID: 335911559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 5090
+        y: 1455.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c4ca60e0fcdf444abbae502daf9ac1
+      internalID: -1574683235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 970.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dba503e0f16aea4abd770cfbfbb1c88
+      internalID: 836656346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 970.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73d284613c6bc84288441691f5dbf84
+      internalID: 1715522340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 970.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cd145afb4631b4b824cfcb0b95657a
+      internalID: 1050735777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 970.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9631fcad1b4b25b4db5da38e2630768f
+      internalID: -919273353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 970.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae13e27f87aed3d4abd7d11285ad46e1
+      internalID: 55793936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 970.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cfff021063a8549b7d6d2e92d770f1
+      internalID: -279970652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 970.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60eb83111d09a54479d7a0de247e9b4f
+      internalID: 2137861494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 3563
+        y: 970.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344e3d99f9649fe4592ff5446dd58ff5
+      internalID: -270181761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 970.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be389f7996e52ac4db1a71894a4b0c73
+      internalID: -381052045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 4581
+        y: 970.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d36bdb2bdd77a47957badda1f2547d
+      internalID: 1425556711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 5090
+        y: 970.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8416547c252dfa646994ec028b432671
+      internalID: 1723388780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 485.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4276706ef233a4693cc64479ac8cb0
+      internalID: -1485120681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 485.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7782f92e3e2f8224293fa2d38231dc1a
+      internalID: 697850170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 485.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7433b97967e389418a0bd8a52f2e0a1
+      internalID: -201531368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 485.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5d6def0f292064e9b8ec2f4ccf8463
+      internalID: -989040115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 485.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286e9e0d63aafb44fb8ce8d5fb27767d
+      internalID: -439852776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 485.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14b3746ca9549545bd62e2254fdd5ef
+      internalID: -114633486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 485.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fa54fa1202b294d959c5f69a2e5326
+      internalID: -1016908467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 3563
+        y: 485.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9427c18ec74a848a68280ba2c31e4c
+      internalID: 2029776880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 485.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2475ced16f40440a138d05f79322f8
+      internalID: 2016687243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 4581
+        y: 485.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b06a4fac1cb9f448593e892a2af148
+      internalID: -370896066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 5090
+        y: 485.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f8b920a8be9794f868e7d468faff3a
+      internalID: -1910621118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f720ca1f32e6945a4966110641522d
+      internalID: -948536433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 0.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a4e06b9d8b2f14d908ccad319fae09
+      internalID: 1410331572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 0.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb21df67f8e3d94bb04cbc18fd0c036
+      internalID: -1617385295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 0.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e06d22ccc846f4d9490cc7071e0a3a
+      internalID: 158988977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 0.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffeb252b2f35f8429a010b9ec6d2330
+      internalID: 387965262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 0.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cef3e114a30f1d46b9f155a3b36de7c
+      internalID: 899359448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 0.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75807be1d6150442881e0ab6949e0d9
+      internalID: -504037725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 3563
+        y: 0.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37d131e75a051444ad98f5a65c6ff04
+      internalID: 1265207786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 0.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5006e4e26d7554a83ffd5516e62f99
+      internalID: -358841056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 4581
+        y: 0.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c752fcb217753cd4e9f3890905e080f8
+      internalID: -1873633397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Walk_Sprite_Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 5090
+        y: 0.75
+        width: 509.0909
+        height: 485.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97386e383b26b1744bcfc7233be534c0
+      internalID: -111308015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Boss_Walk_Sprite_Sheet_0: -1665254425
+      Boss_Walk_Sprite_Sheet_1: 492385641
+      Boss_Walk_Sprite_Sheet_10: -1574683235
+      Boss_Walk_Sprite_Sheet_11: 836656346
+      Boss_Walk_Sprite_Sheet_12: 1715522340
+      Boss_Walk_Sprite_Sheet_13: 1050735777
+      Boss_Walk_Sprite_Sheet_14: -919273353
+      Boss_Walk_Sprite_Sheet_15: 55793936
+      Boss_Walk_Sprite_Sheet_16: -279970652
+      Boss_Walk_Sprite_Sheet_17: 2137861494
+      Boss_Walk_Sprite_Sheet_18: -270181761
+      Boss_Walk_Sprite_Sheet_19: -381052045
+      Boss_Walk_Sprite_Sheet_2: 2088301370
+      Boss_Walk_Sprite_Sheet_20: 1425556711
+      Boss_Walk_Sprite_Sheet_21: 1723388780
+      Boss_Walk_Sprite_Sheet_22: -1485120681
+      Boss_Walk_Sprite_Sheet_23: 697850170
+      Boss_Walk_Sprite_Sheet_24: -201531368
+      Boss_Walk_Sprite_Sheet_25: -989040115
+      Boss_Walk_Sprite_Sheet_26: -439852776
+      Boss_Walk_Sprite_Sheet_27: -114633486
+      Boss_Walk_Sprite_Sheet_28: -1016908467
+      Boss_Walk_Sprite_Sheet_29: 2029776880
+      Boss_Walk_Sprite_Sheet_3: 2010798
+      Boss_Walk_Sprite_Sheet_30: 2016687243
+      Boss_Walk_Sprite_Sheet_31: -370896066
+      Boss_Walk_Sprite_Sheet_32: -1910621118
+      Boss_Walk_Sprite_Sheet_33: -948536433
+      Boss_Walk_Sprite_Sheet_34: 1410331572
+      Boss_Walk_Sprite_Sheet_35: -1617385295
+      Boss_Walk_Sprite_Sheet_36: 158988977
+      Boss_Walk_Sprite_Sheet_37: 387965262
+      Boss_Walk_Sprite_Sheet_38: 899359448
+      Boss_Walk_Sprite_Sheet_39: -504037725
+      Boss_Walk_Sprite_Sheet_4: -1506793693
+      Boss_Walk_Sprite_Sheet_40: 1265207786
+      Boss_Walk_Sprite_Sheet_41: -358841056
+      Boss_Walk_Sprite_Sheet_42: -1873633397
+      Boss_Walk_Sprite_Sheet_43: -111308015
+      Boss_Walk_Sprite_Sheet_5: 980784897
+      Boss_Walk_Sprite_Sheet_6: -1933923815
+      Boss_Walk_Sprite_Sheet_7: 518832986
+      Boss_Walk_Sprite_Sheet_8: 374933018
+      Boss_Walk_Sprite_Sheet_9: 335911559
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

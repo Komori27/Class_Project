@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BossWalkReverse
+  m_Controller: {fileID: 9100000, guid: c24f603f25357cd47bb511c440ea8715, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 9f206e3a9d1789547ae0f6f93871be3a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5b60b2ec5585d46418104238c329bf06, type: 2}
