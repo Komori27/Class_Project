@@ -9,6 +9,7 @@ public class Enemy : MonoBehaviour
     [SerializeField] bool destroyObject = false;
     public int maxHealth = 100;
     public int currentHealth;
+    public bool isDead = false;
     void Start()
     {
         currentHealth = maxHealth;
@@ -29,6 +30,7 @@ public class Enemy : MonoBehaviour
     void Die() 
     {
         Debug.Log("Enemy died!");
+        isDead = true;
         animator.SetBool("IsDead", true);
         rb = GetComponent<Rigidbody2D>();
         rb.constraints = RigidbodyConstraints2D.FreezePositionY | RigidbodyConstraints2D.FreezePositionX;

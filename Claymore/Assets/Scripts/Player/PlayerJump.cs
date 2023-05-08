@@ -11,6 +11,7 @@ public class PlayerJump : MonoBehaviour
     public Animator animator;          // The Animator component of the player
     private Rigidbody2D player;
 
+    [SerializeField] FootstepController footstepController;
     private bool isGrounded;            // Whether or not the player is on the ground
     [SerializeField] float jumpDelay = 0.2f;
 
@@ -24,6 +25,7 @@ public class PlayerJump : MonoBehaviour
     {
         Collider2D collider = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
 
+
         isGrounded = collider != null;
 
         //Debug.Log(collider == null ? "null" : collider.name);
@@ -31,6 +33,7 @@ public class PlayerJump : MonoBehaviour
         if (isGrounded != isGroundedLastFrame) 
         {
         animator.SetBool("Grounded", isGrounded);
+        footstepController.SetGrounded(isGrounded);
         }
 
         if (Input.GetButtonDown("Jump") && isGrounded)
@@ -40,6 +43,7 @@ public class PlayerJump : MonoBehaviour
             //Debug.Log("Jump");
             animator.SetBool("StartJump", true);
             Invoke(nameof(JumpStartEnd), jumpDelay);
+            footstepController.SetGrounded(!isGrounded);
         }
 
         isGroundedLastFrame = isGrounded;

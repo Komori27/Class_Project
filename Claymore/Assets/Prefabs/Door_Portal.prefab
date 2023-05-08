@@ -169,6 +169,7 @@ GameObject:
   - component: {fileID: 1153491830947048775}
   - component: {fileID: 866346985}
   - component: {fileID: 866346984}
+  - component: {fileID: 5818641638403156435}
   m_Layer: 0
   m_Name: Door_Portal
   m_TagString: Untagged
@@ -231,6 +232,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   targetAnimator: {fileID: 8777718118055672589}
+--- !u!114 &5818641638403156435
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3480787926942715761}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 242281a8a967dc64781ae1ace81d42b6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  doorAnimated: {fileID: 0}
 --- !u!1 &3681422633684996981
 GameObject:
   m_ObjectHideFlags: 0

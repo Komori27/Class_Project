@@ -28,7 +28,8 @@ public class LevelLoader : MonoBehaviour
         if (changeLevel)
         {
             Debug.Log("LvLchange");
-            LoadNextLevel();
+            //LoadNextLevel();
+            LoadMainMenu();
         }
     }
     void OnTriggerEnter2D(Collider2D other)

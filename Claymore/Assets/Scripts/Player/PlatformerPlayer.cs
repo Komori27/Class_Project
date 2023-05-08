@@ -1,3 +1,4 @@
+using JetBrains.Annotations;
 using UnityEngine;
 
 public class PlatformerPlayer : MonoBehaviour
@@ -11,6 +12,7 @@ public class PlatformerPlayer : MonoBehaviour
 
     [SerializeField] Stamina stamina;
     [SerializeField] PlayerStaminaHUD staminaBar;
+    public bool isDodging = false;
 
 
     [SerializeField] Dodge dodge;
@@ -41,7 +43,7 @@ public class PlatformerPlayer : MonoBehaviour
             if (Input.GetKeyDown(KeyCode.G) && !dodge.IsDodging)
             {
                 stamina.UseStamina(50);
-                //staminaBar.SetStamina(stamina.currentStamina);
+                isDodging = true;
                 float horizontalD = Input.GetAxis("Horizontal");
                 animator.SetTrigger("IsDodging");
                 if (horizontalD < 0)
@@ -94,5 +96,9 @@ public class PlatformerPlayer : MonoBehaviour
 
             rb.velocity = velocity;
         
+    }
+    void endDodge()
+    {
+        isDodging = false;
     }
 }
