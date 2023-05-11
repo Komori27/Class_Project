@@ -63,13 +63,13 @@ public class PlayerHealth : MonoBehaviour
         }
         healthBar.SetHealth(currentHealth);
     }
-    /*
-    void Update()
-    {
-        float size = Mathf.Lerp(minSize, maxSize, (float)currentHealth / 100f);
-        hudImage.rectTransform.sizeDelta = new Vector2(size, size);
+
+    public void Healing()
+    { 
+        currentHealth = maxHealth;
+        healthBar.SetHealth(currentHealth);
     }
-    */
+
     public void Die()
     {
         Debug.Log("Player died!");
